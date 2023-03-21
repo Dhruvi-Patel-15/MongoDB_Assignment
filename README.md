@@ -155,3 +155,6 @@ https://simformsolutionspvtltd-my.sharepoint.com/:i:/r/personal/dhruvi_p_simform
 
 >#### Output of above query will be
 https://simformsolutionspvtltd-my.sharepoint.com/:i:/r/personal/dhruvi_p_simformsolutions_com/Documents/Mongodb_Assignment/Screenshot%20from%202023-03-21%2015-29-12.png?csf=1&web=1&e=9Qm9X6
+
+###Database Output
+https://simformsolutionspvtltd-my.sharepoint.com/:i:/r/personal/dhruvi_p_simformsolutions_com/Documents/Mongodb_Assignment/Screenshot%20from%202023-03-21%2015-30-08.png?csf=1&web=1&e=hFjahF
